@@ -1,0 +1,7 @@
+SELECT TOP (1000) [Customer_ID]
+      ,[Vehical_ID]
+      ,[Price]
+      ,[Destination]
+      ,[No_of_KM]
+      ,[Date]
+  FROM [Final_DB].[dbo].[Booking]

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CW_Finel_App1", "CW_Finel_App1\CW_Finel_App1.csproj", "{30AC3E81-371C-497C-B093-B7B8FD2B743D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QUICK_RENT", "QUICK_RENT\QUICK_RENT.vdproj", "{0EC261F7-61ED-4BB8-AE13-93A07A341F6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30AC3E81-371C-497C-B093-B7B8FD2B743D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30AC3E81-371C-497C-B093-B7B8FD2B743D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30AC3E81-371C-497C-B093-B7B8FD2B743D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30AC3E81-371C-497C-B093-B7B8FD2B743D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC261F7-61ED-4BB8-AE13-93A07A341F6D}.Debug|Any CPU.ActiveCfg = Debug
+		{0EC261F7-61ED-4BB8-AE13-93A07A341F6D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C6ACC2E-9250-43DE-955C-249FB79CA9F4}
+	EndGlobalSection
+EndGlobal
